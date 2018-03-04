@@ -1,5 +1,4 @@
 # Caricature-Data
-This repository contain some caricature-about data. 
 This repository contain the caricature images with corresponding landmark in paper:. 
 
 The **Caricature-w-landmark** folder contains the caricature images with its landmarks. We named them by number. e.g. 1.jpg with its landmarks file named 1.txt.
