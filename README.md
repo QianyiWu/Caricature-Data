@@ -11,3 +11,6 @@ If you have comments or questions, please contact Qianyi Wu (wqy9619@mail.ustc.e
 
 # License
 Please note that this dataset could be used for research purpose only, and any commercial use of the data is prohibited.
+
+# Citation
+Please cite the following paper if this dataset helps your research:
