@@ -6,6 +6,15 @@ The **Caricature-w-landmark** folder contains the caricature images with its lan
 Each text file was organized by x-coordinate and y-coordinate of 68 landmarks. The sequence of landmarks following 
 <a href="https://ibug.doc.ic.ac.uk/media/uploads/images/annotpics/figure_68_markup.jpg"> ibug_facial_landmarks.jpg</a>
 
+We provide a python script to read the landmarks file and display them. 
+
+Usage: run **read_landmarks.py** in this folder. For example, you want to show the 10-th image's landmark, you can use:
+``` bash
+cd ../Caricature-w-landmark
+python read_landmarks.py --index 10
+```
+Dependencies: PIL
+
 The **my-result-crop** folder contains output given by our method. 
 
 # Usage
@@ -18,10 +27,10 @@ Please note that this dataset could be used for research purpose only, and any c
 Please cite the following paper if this dataset helps your research:
 <a href="https://arxiv.org/abs/1803.06802v2">Alive Caricature from 2D to 3D</a>
 
-          @article{wu2018alive,
-                    title={Alive Caricature from 2D to 3D},
-                    author={Wu, Qianyi and Zhang, Juyong and Lai, Yu-Kun and Zheng, Jianmin and Cai, Jianfei},
-                    journal={CVPR},
-                    year={2018}
-          }
+    @article{wu2018alive
+          title={Alive Caricature from 2D to 3D},
+          author={Wu, Qianyi and Zhang, Juyong and Lai, Yu-Kun and Zheng, Jianmin and Cai, Jianfei}
+          journal={CVPR},
+          year={2018}
+    }
 
