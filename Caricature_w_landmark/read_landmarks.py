@@ -36,6 +36,7 @@ for i in range(1,68):
     point_x = land_list[2*(i-1)]
     point_y = land_list[2*i-1]
     Draw.rectangle([point_x-2/scale,point_y-2/scale,point_x+2/scale,point_y+2/scale], outline = "red", fill = 128)
+    # (0,0) falls in the upper left corner of the picture
 
 Img = Img.resize((new_x, new_y), Image.ANTIALIAS)
 Img.show()
