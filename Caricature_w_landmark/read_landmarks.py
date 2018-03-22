@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw
 
 ## args
 parser = argparse.ArgumentParser()
-parser.add_argument('--index', type=int, help = "Please input the index of image-landmark pair, from 1-50.", default = 10, required=True)
+parser.add_argument('--index', type=int, help = "Please input the index of image-landmark pair, from 1-50.", default = 7, required=True)
 args = parser.parse_args()
 index = args.index
 img_name = str(index)+ '.jpg'
