@@ -15,3 +15,5 @@ Please note that this dataset could be used for research purpose only, and any c
 
 # Citation
 Please cite the following paper if this dataset helps your research:
+<a href="https://arxiv.org/abs/1803.06802v2">Alive Caricature from 2D to 3D</a>
+
