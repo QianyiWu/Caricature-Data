@@ -8,10 +8,10 @@ Each text file was organized by x-coordinate and y-coordinate of 68 landmarks. T
 
 We provide a python script to read the landmarks file and display them. 
 
-Usage: run **read_landmarks.py** in this folder. For example, you want to show the 10-th image's landmarks, you can use:
+Usage: run **read_landmarks.py** in this folder. For example, you want to show the 7-th image's landmarks, you can use:
 ``` bash
 cd ../Caricature-w-landmark
-python read_landmarks.py --index 10
+python read_landmarks.py --index 7
 ```
 Dependencies: PIL
 
