@@ -19,9 +19,9 @@ Please cite the following paper if this dataset helps your research:
 <a href="https://arxiv.org/abs/1803.06802v2">Alive Caricature from 2D to 3D</a>
 
           @article{wu2018alive,
-          title={Alive Caricature from 2D to 3D},
-          author={Wu, Qianyi and Zhang, Juyong and Lai, Yu-Kun and Zheng, Jianmin and Cai, Jianfei},
-          journal={CVPR},
-          year={2018}
-        }
+                    title={Alive Caricature from 2D to 3D},
+                    author={Wu, Qianyi and Zhang, Juyong and Lai, Yu-Kun and Zheng, Jianmin and Cai, Jianfei},
+                    journal={CVPR},
+                    year={2018}
+          }
 
