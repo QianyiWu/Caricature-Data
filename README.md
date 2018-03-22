@@ -3,7 +3,7 @@ This repository contain the caricature images with corresponding landmark in pap
 
 The **Caricature-w-landmark** folder contains the caricature images with its landmarks. We named them by number. e.g. 1.jpg with its landmarks file named 1.txt.
 
-Each text file was organized by x-coordinate and y-coordinate of 68 landmarks. The sequence of landmarks following https://ibug.doc.ic.ac.uk/media/uploads/images/annotpics/figure_68_markup.jpg.
+Each text file was organized by x-coordinate and y-coordinate of 68 landmarks. The sequence of landmarks following <a herf = "https://ibug.doc.ic.ac.uk/media/uploads/images/annotpics/figure_68_markup.jpg“> iBug_landmarks.jpg </a>.
 
 The **my-result-crop** folder contains output given by our method. 
 
