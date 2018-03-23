@@ -15,7 +15,7 @@ python read_landmarks.py --index 7
 ```
 Dependencies: PIL
 
-The **my_result_crop** folder contains outputs given by our method. 
+The **my_result_Crop** folder contains outputs given by our method. 
 
 # Usage
 If you have comments or questions, please contact Qianyi Wu (wqy9619@mail.ustc.edu.cn) and Juyong Zhang (juyong@ustc.edu.cn).
