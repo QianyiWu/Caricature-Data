@@ -10,7 +10,7 @@ We provide a python script to read the landmarks file and display them.
 
 Usage: run **read_landmarks.py** in this folder. For example, you want to show the 7-th image's landmarks, you can use:
 ``` bash
-cd ../Caricature-w-landmark
+cd ../Caricature_w_landmark
 python read_landmarks.py --index 7
 ```
 Dependencies: PIL
