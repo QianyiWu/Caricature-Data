@@ -13,7 +13,11 @@ Usage: run **read_landmarks.py** in this folder. For example, you want to show t
 cd ../Caricature_w_landmark
 python read_landmarks.py --index 7
 ```
-Dependencies: PIL
+Dependencies: PIL. 
+
+It should be something like this. Those red points are facial landmarks.
+
+<img src = "example.png" height = "550px"/>
 
 The **my_result_Crop** folder contains outputs given by our method. 
 
