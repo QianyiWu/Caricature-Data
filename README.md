@@ -22,7 +22,7 @@ It should be something like this. Those red points are facial landmarks.
 The <a href="https://github.com/QianyiWu/Caricature-Data/tree/master/my_result_Crop"> my_result_Crop</a> folder contains outputs given by our method. 
 
 # Update Log
-**Add landmarks index of 3D model: ** Add 3D model landmark file <a href="https://github.com/QianyiWu/Caricature-Data/blob/master/landmark_index.txt"> 3D_landmark.txt</a> used in our project. Those data was marked manually and can be edited if necessary.
+**Add landmarks index of 3D model:** Add 3D model landmark file <a href="https://github.com/QianyiWu/Caricature-Data/blob/master/landmark_index.txt"> 3D_landmark.txt</a> used in our project. Those data was marked manually and can be edited if necessary.
 
 # Usage
 If you have comments or questions, please contact Qianyi Wu (wqy9619@mail.ustc.edu.cn) and Juyong Zhang (juyong@ustc.edu.cn).
